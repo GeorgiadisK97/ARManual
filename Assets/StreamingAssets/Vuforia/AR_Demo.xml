@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ScanHere1" size="0.300000 0.278796" />
+    <ImageTarget name="ARManualScanImage" size="0.300000 0.172648" />
+    <ImageTarget name="k_diamonds" size="0.060000 0.085919" />
+  </Tracking>
+</QCARConfig>
